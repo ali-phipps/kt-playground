@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FizzbuzzTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2020-02-06T14:51:18" hostname="alistair-ThinkPad-L380" time="0.083">
+  <properties/>
+  <testcase name="enter 4 get &quot;4&quot;()" classname="FizzbuzzTest" time="0.061"/>
+  <testcase name="enter 1 get &quot;1&quot;()" classname="FizzbuzzTest" time="0.001"/>
+  <testcase name="enter 10 get &quot;buzz&quot;()" classname="FizzbuzzTest" time="0.001"/>
+  <testcase name="enter 15 get &quot;fizzbuzz&quot;()" classname="FizzbuzzTest" time="0.001"/>
+  <testcase name="enter 11 get &quot;11&quot;()" classname="FizzbuzzTest" time="0.001"/>
+  <testcase name="enter 3 get &quot;fizz&quot;()" classname="FizzbuzzTest" time="0.002"/>
+  <testcase name="enter 5 get &quot;buzz&quot;()" classname="FizzbuzzTest" time="0.001"/>
+  <testcase name="enter 6 get &quot;fizz&quot;()" classname="FizzbuzzTest" time="0.002"/>
+  <testcase name="enter 7 get &quot;7&quot;()" classname="FizzbuzzTest" time="0.001"/>
+  <testcase name="enter 9 get &quot;fizz&quot;()" classname="FizzbuzzTest" time="0.001"/>
+  <testcase name="enter 2 get &quot;2&quot;()" classname="FizzbuzzTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
