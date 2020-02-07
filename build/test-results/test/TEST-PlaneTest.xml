@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PlaneTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-02-07T14:16:57" hostname="alistair-ThinkPad-L380" time="0.066">
+  <properties/>
+  <testcase name="land plane at an airport()" classname="PlaneTest" time="0.06"/>
+  <testcase name="land plane at an airport, check plane isn't flying()" classname="PlaneTest" time="0.002"/>
+  <testcase name="When plane is created it is flying()" classname="PlaneTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
